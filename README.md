@@ -1,12 +1,17 @@
-## Spam Classifier
+## Problem statement
 
-The aim and objective of this machine learning project is to create a model which is capable of predicting the category in which a mail falls into.
-These categories include:
-Ham and Spam messages
+Spam can be defined as messages that are irrelevant or unsolicited and sent over the internet, typically to a large number of users, for the purposes of 
+- advertising 
+- phishing 
+- spreading malware
+
+Spam is bad because it shifts the cost of advertising to the recipients. Most email spam messages are commercial in nature and whether they are commercial or not, many are not only annoying, but may also be dangerous because they may contain links that lead to phishing web sites or sites that are hosting malware. They could infact include malware as file attachments.
+
+## Objective
 
 This project represent my first trial at Natural Language Processing (NLP) and is thus meant to help me get acquainted with me various text processing techniques as well as other techniques which are used in Natural langauge Processing ptojects.
 
-RESULTS:
+## Results
 
 A logistic regression and a random forest algorithm were used.
 
@@ -16,6 +21,6 @@ A logistic regression and a random forest algorithm were used.
 2. The naive bayes classifier on the other hand produced a model which had an 
    accuracy of 95.5 percent. 
    
-CONCLUSION:
+## Conclusion
 
 The naive bayes classifier seems a slighty better fit and would be used. 
