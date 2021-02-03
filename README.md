@@ -4,7 +4,7 @@ The aim and objective of this machine learning project is to create a model whic
 These categories include:
 Ham and Spam messages
 
-This project represent my first trial at Natural Language Processing (NLP) and is thus meant to help me get acquainted with me various text processing as well as other techniques which are used in Natural langauge Processing ptojects.
+This project represent my first trial at Natural Language Processing (NLP) and is thus meant to help me get acquainted with me various text processing techniques as well as other techniques which are used in Natural langauge Processing ptojects.
 
 RESULTS:
 
