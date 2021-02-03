@@ -1,4 +1,4 @@
-##Spam Filter
+## Spam Classifier
 
 The aim and objective of this machine learning project is to create a model which is capable of predicting the category in which a mail falls into.
 These categories include:
